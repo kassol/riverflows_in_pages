@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Kassol 的博客",
+    "name": "S.T.A.R.",
     "short_name": "Ice-Hazymoon",
-    "description": "Kassol 的博客",
+    "description": "S.T.A.R.",
     "icons": [
         {
             "src": "/icon_huf0db5a14d812258b8c55135f192e7308_2933_192x192_resize_catmullrom_3.png",
