@@ -9,25 +9,25 @@
     "description": "S.T.A.R.",
     "icons": [
         {
-            "src": "/icon_huf0db5a14d812258b8c55135f192e7308_2933_192x192_resize_catmullrom_3.png",
+            "src": "/icon_hu78df868ba5f1948712b98c87fff18a86_468509_192x192_resize_catmullrom_3.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "/icon_huf0db5a14d812258b8c55135f192e7308_2933_256x256_resize_catmullrom_3.png",
+            "src": "/icon_hu78df868ba5f1948712b98c87fff18a86_468509_256x256_resize_catmullrom_3.png",
             "sizes": "256x256",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "/icon_huf0db5a14d812258b8c55135f192e7308_2933_384x384_resize_catmullrom_3.png",
+            "src": "/icon_hu78df868ba5f1948712b98c87fff18a86_468509_384x384_resize_catmullrom_3.png",
             "sizes": "384x384",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "/icon_huf0db5a14d812258b8c55135f192e7308_2933_512x512_resize_catmullrom_3.png",
+            "src": "/icon_hu78df868ba5f1948712b98c87fff18a86_468509_512x512_resize_catmullrom_3.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
